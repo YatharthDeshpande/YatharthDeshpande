@@ -2,8 +2,7 @@
 - 👀 I’m interested in ...open source,web devlopment,AI
 - 🌱 I’m currently Studing in ... GH Raisoni institute of engineering and technology, nagpur
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Email- Yatharthdeshpande724@gmail.com
--                         linkedin- linkedin.com/in/yatharthdeshpande
+- 📫 How to reach me ... Email- Yatharthdeshpande724@gmail.com linkedin- linkedin.com/in/yatharthdeshpande                    
 
 <!---
 YatharthDeshpande/YatharthDeshpande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
